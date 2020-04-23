@@ -1,0 +1,45 @@
+body{
+  background-color: #b0e0e6;
+}
+#heading{
+  border: black thin solid;
+}
+
+#ack{
+  background-color: #FFFCA5;
+}
+
+h2{
+  color: purple;
+}
+
+#itemone{
+  text-decoration: overline;
+  color: purple;
+}
+
+a{
+  color: red;
+}
+
+a: visited{
+  color: yellow;
+}
+
+
+#ta1{
+  border: gray thick solid;
+}
+
+.formfield{
+  border: brown 2px solid;
+}
+
+#final{
+  border: yellow 4px dashed;
+  background-color: blue;
+}
+
+#pthree{
+  background-color: #FFFCA5;
+}
