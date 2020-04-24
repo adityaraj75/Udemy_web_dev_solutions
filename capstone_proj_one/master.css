@@ -1,0 +1,57 @@
+#main{
+  text-align: center;
+  border: #2EC4B6 40px solid;
+  border-top: 0px;
+}
+
+body{
+  font-size: 1.5em;
+  background-color: #011627;
+  color: #FDFFFC;
+  margin: 0px;
+}
+
+#thanks_b{
+  text-align: center;
+}
+
+#thanks_p{
+  margin: auto;
+  margin-top: 10px;
+  border: #2EC4B6 40px solid;
+  border-top: 0px;
+}
+
+#lp_content{
+  margin: auto;
+  margin-top: 150px;
+  width: 60%;
+}
+
+#lp_p2{
+  margin-top: 80px;
+}
+
+#first_name{
+  height: 20px;
+  width: 450px;
+}
+
+#last_name{
+  height: 20px;
+  width: 450px;
+}
+
+#email{
+  height: 20px;
+  width: 450px;
+}
+
+button{
+  margin-top: 15px;
+  border-radius: 25px;
+  background-color: #FF9F1C;
+  margin-bottom: 20px;
+  /* color: white; */
+  transform: scale(2);
+}
